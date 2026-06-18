@@ -1,0 +1,6 @@
+[submodule "vinge"]
+	path = vinge
+	url = git@github.com:indium731/Vinge.git
+[submodule "wosh"]
+	path = wosh
+	url = git@github.com:indium731/wosh.git
